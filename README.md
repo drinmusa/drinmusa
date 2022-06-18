@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @drinmusa
-- 👀 I’m looking for an internship
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m looking for remote roles / project based roles
+- 🌱 I’m currently working as full stack developer
 - 📫You can contact drin9915@gmail.com

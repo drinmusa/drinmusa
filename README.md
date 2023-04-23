@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @drinmusa
 - 👀 I’m looking for remote roles / project based roles
 - 🌱 I’m currently working as full stack developer
-- 📫You can contact drin9915@gmail.com
+- 📫 You can contact drin9915@gmail.com
+- 📄 https://drinmusa.netlify.app

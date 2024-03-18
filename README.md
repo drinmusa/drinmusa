@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drin</h1>
 <h3 align="center">A passionate JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on **Upwork**
+- 🔭 I’m currently working at [https://themiracle.io](https://themiracle.io)
 
 - 🌱 I’m currently learning **Nest.js and React Native**
 

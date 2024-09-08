@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drin</h1>
-<h3 align="center">A passionate JavaScript Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working at [https://themiracle.io](https://themiracle.io)
-
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning **Nest.js and React Native**
 
 - 👨‍💻 All of my projects are available at [https://drinmusa.netlify.app](https://drinmusa.netlify.app)

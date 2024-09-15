@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning **Nest.js and React Native**
-
-- 👨‍💻 All of my projects are available at [https://drinmusa.netlify.app](https://drinmusa.netlify.app)
-
 - 💬 Ask me about **React, Node, Next**
-
 - 📫 How to reach me **drin9915@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
